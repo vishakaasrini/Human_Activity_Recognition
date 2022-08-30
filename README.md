@@ -44,8 +44,9 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 2. **For the Locomotion Layer**
 
 
-
     **F1 score per class for Locomotion**
+    
+    
     <img width="500" alt="image" src="https://user-images.githubusercontent.com/105876342/184668358-18291268-d3c6-410b-9ef1-e6cc8a28603a.png">
 
 

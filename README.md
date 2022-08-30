@@ -37,8 +37,8 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
     
  **F1 Score per class**
 
-![image](https://user-images.githubusercontent.com/105876342/184665107-d53aa9e7-2d16-4085-994e-5eedfa2ff8ea.png)
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/105876342/184665107-d53aa9e7-2d16-4085-994e-5eedfa2ff8ea.png">
 
 
 

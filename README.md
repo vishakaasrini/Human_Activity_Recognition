@@ -47,9 +47,11 @@ Using TensorFlow, we used only 1 model but we had three approaches. The model is
 
 
  **F1 score per class for Locomotion**
- ![image](https://user-images.githubusercontent.com/105876342/184668358-18291268-d3c6-410b-9ef1-e6cc8a28603a.png)
+ 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/105876342/184668358-18291268-d3c6-410b-9ef1-e6cc8a28603a.png">
 
-    
+
+
 # Pre-Trained Models
 You can find all the pretrained models in the folder Pre-Trained models
 
